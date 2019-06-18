@@ -1,0 +1,24 @@
+{
+  "locations": [
+    {
+      "name": "location 1",
+      "latitude": "28.537377",
+      "longitude": "-81.376756"
+    },
+    {
+      "name": "location 2",
+      "latitude": "28.538854",
+      "longitude": "-81.378987"
+    }
+  ],
+  "paths": [
+  {
+    "name": "Path1",
+    "url": "https://server.com/path1.wyfd"
+  },
+  {
+    "name": "Path2",
+    "url": "https://server.com/path2.wyfd"
+  }
+  ]
+}
